@@ -1,0 +1,9 @@
+name: ${plugin_name}
+main: giselle.skript.oraxen_items.SkOraxenItems
+version: ${plugin_version}
+api-version: 1.15
+depend: [ Oraxen, Skript ]
+website: ${plugin_homepage}
+description: ${plugin_description}
+authors: [ Gisellevonbingen ]
+database: false
